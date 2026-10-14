@@ -1,0 +1,7 @@
+{
+  "name": "Chroma Nocta v1.4",
+  "description": "Mobile-first scientific astrophotography field station and ephemeris engine",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
