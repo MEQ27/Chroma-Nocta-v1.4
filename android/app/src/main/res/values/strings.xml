@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">Chroma Nocta</string>
-    <string name="title_activity_main">Chroma Nocta</string>
-    <string name="package_name">com.chromanocta.app</string>
-    <string name="custom_url_scheme">com.chromanocta.app</string>
-</resources>
